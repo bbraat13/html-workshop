@@ -1,0 +1,39 @@
+body {
+  background-color: #0E9CA1;
+  color: black;
+  padding: 5%;
+  font-family: 'Oswald';
+}
+
+main {
+  background-color: white;
+  padding: 10px 10% 10px 10%;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#people {
+text-align: center;
+}
+
+section {
+  pading: 0% 10%;
+}
+
+img {
+width: 14%;
+
+}
+
+li {
+  text-align: center;
+}
+
+h1 {
+  border: 2px dotted #8AC8CA;
+}
+
+h1, h2 {
+  text-align: center;
+  border-bottom: 2px dotted #8AC8CA;
+}
